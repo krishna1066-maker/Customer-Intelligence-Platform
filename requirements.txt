@@ -1,0 +1,10 @@
+streamlit==1.32.2
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+xgboost==2.0.3
+nltk==3.8.1
+plotly==5.22.0
+joblib==1.4.2
+shap==0.45.0
+opencv-python==4.10.0.84
